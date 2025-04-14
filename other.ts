@@ -1,5 +1,5 @@
 namespace Other {
-    let y: number = 8;
+    export let y: number = 8;
 
-   export y = 5
+    y = 5
 }
