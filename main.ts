@@ -1,0 +1,1 @@
+basic.showNumber(Other.y);
